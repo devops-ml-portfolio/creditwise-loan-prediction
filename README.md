@@ -10,7 +10,9 @@
 
 ### **Current Challenges**:
 -Manual verification = slow + biased
+
 -Good customers rejected → Lost revenue
+
 -High-risk approved → Default losses
 
 ### **Solution**: **Intelligent ML Loan Approval System**
