@@ -9,9 +9,9 @@
 **HBC Trust Bank**, a mid-sized financial company in India, offers personal and home loans across urban and rural regions. Every day, hundreds of customers apply through online and branch applications.
 
 ### **Current Challenges**:
- Manual verification = slow + biased
-Good customers rejected → Lost revenue
-High-risk approved → Default losses
+-Manual verification = slow + biased
+-Good customers rejected → Lost revenue
+-High-risk approved → Default losses
 
 ### **Solution**: **Intelligent ML Loan Approval System**
 - **Automatically analyzes** applicant details (income, credit score, DTI ratio, etc.)
