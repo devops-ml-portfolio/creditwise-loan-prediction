@@ -46,7 +46,7 @@
 
 ```bash
 # Clone & Deploy (45 seconds)
-git clone https://github.com/YOURUSERNAME/creditwise-loan-prediction.git
+git clone https://github.com/devops-ml-portfolio/creditwise-loan-prediction.git
 cd creditwise-loan-prediction
 pip install -r requirements.txt
 jupyter notebook creditwise_pipeline.ipynb
